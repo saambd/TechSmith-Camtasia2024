@@ -1,1 +1,0 @@
-<?php die("Channel Deactivated"); ?>
